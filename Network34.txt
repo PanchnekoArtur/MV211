@@ -1,0 +1,4 @@
+У AlmaLinux/Ubuntu в LXC необхідно створити:
+1.Storage з назвою student_name (Denys, Atrur, Maksym для прикладу)
+2.Container з назвою cloud де буде знаходиться ОС з LXC.
+Прислати виконане завдання зі скрінами на перевірку.
